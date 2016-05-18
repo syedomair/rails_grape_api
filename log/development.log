@@ -1,0 +1,12 @@
+
+
+Started GET "/api/v1/converter/exchange?amount=34" for 127.0.0.1 at 2016-05-18 10:31:55 +0500
+
+
+Started GET "/api/v1/converter/exchange?amount=34&to_currency=EU" for 127.0.0.1 at 2016-05-18 10:32:29 +0500
+
+
+Started GET "/api/v1/converter/exchange?amount=34&to_currency=NTD" for 127.0.0.1 at 2016-05-18 10:32:49 +0500
+
+
+Started GET "/api/v1/converter/exchange?amount=34&to_currency=NTD" for 127.0.0.1 at 2016-05-18 10:38:18 +0500
