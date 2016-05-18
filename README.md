@@ -1,4 +1,4 @@
-# rails_api_project
+# rails_grape_api
 
 Copy code from https://github.com/codebites-tv/grape_api
 
